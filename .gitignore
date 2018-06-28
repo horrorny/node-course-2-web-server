@@ -1,2 +1,4 @@
 node_modules/
-serverl.log
+server.log
+package-lock.json
+.idea/
